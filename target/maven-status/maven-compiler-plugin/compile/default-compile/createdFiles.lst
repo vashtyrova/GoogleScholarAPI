@@ -1,0 +1,15 @@
+com\study\CitedBy.class
+com\study\GoogleScholarProfileResponse.class
+com\study\Main.class
+com\study\Table.class
+com\study\UniversitySearch.class
+com\study\ProfileSearch.class
+com\study\GoogleScholarUniversityResponse.class
+com\study\ProfileSearchPagination.class
+com\study\Profiles.class
+com\study\HIndex.class
+com\study\Author.class
+com\study\GoogleScholarAuthorResponse.class
+com\study\PublicationInfo.class
+com\study\OrganicResult.class
+com\study\Citations.class
